@@ -10,5 +10,9 @@ $ git clone https://github.com/fatima7aeed/Flowers.git
 
 Project run successfully
 
+## Credits
+
+- [NAVEEN KUMAWAT](https://github.com/naveen-kumawat) - for the awesome codebase.
+
 
 ![Flower](https://github.com/fatima7aeed/Flowers/raw/0072875bbdce066da03df9826ba2de2ece4773db/Flower.png)
