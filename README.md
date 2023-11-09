@@ -11,7 +11,7 @@ $ git clone https://github.com/fatima7aeed/Flowers.git
 Project run successfully
 
 
-![flower]http://127.0.0.1:5500/
+![flower] Flower.png
 =======
 # Flowers
 >>>>>>> origin/main
